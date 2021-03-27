@@ -1,6 +1,6 @@
 # Breadth-First-Search-Algorithm
 
-Simple Breadth First Search implementation on Python
+### Simple Breadth First Search implementation on Python
 
 Breadth-first search (BFS) is an algorithm for traversing or searching
 tree or graph data structures. It starts at the tree root (or some arbitrary node of a graph,
